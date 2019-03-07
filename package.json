@@ -1,5 +1,5 @@
 {
-  "name": "react-sortable-tree",
+  "name": "fixed-react-sortable-tree",
   "version": "2.6.0",
   "description": "Drag-and-drop sortable component for nested data and hierarchies",
   "scripts": {

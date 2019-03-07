@@ -14,6 +14,7 @@ module.exports = {
     'react/jsx-filename-extension': 0,
     'react/prefer-stateless-function': 0,
     'react/no-did-mount-set-state': 0,
-    'react/sort-comp': 0
+    'react/sort-comp': 0,
+    'linebreak-style': 0
   },
 }
