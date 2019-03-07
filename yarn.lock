@@ -10721,18 +10721,6 @@ react-dnd@2.5.4:
     recompose "^0.30.0"
     shallowequal "^1.1.0"
 
-react-dnd@^7.0.1:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/react-dnd/-/react-dnd-7.0.1.tgz#155f2f14054ac29c2ae87cb9543e98a3adb71025"
-  integrity sha512-Iql5+6v2KQzJlLY9rC0uMjmgN86HoiLpTFADKGTQKU0+vIVqUBsuBChmpkpPh4+1XmWs9Dn8AY9wyBlwZ2Cibw==
-  dependencies:
-    dnd-core "^7.0.1"
-    hoist-non-react-statics "^3.1.0"
-    invariant "^2.1.0"
-    lodash "^4.17.11"
-    recompose "^0.30.0"
-    shallowequal "^1.1.0"
-
 react-docgen@^3.0.0-rc.1:
   version "3.0.0-rc.2"
   resolved "https://registry.yarnpkg.com/react-docgen/-/react-docgen-3.0.0-rc.2.tgz#5939c64699fd9959da6d97d890f7b648e542dbcc"
@@ -10823,19 +10811,6 @@ react-sortable-tree-theme-file-explorer@^1.1.2:
     react-dnd-html5-backend "2.5.4"
     react-dnd-scrollzone "^4.0.0"
     react-virtualized "^9.13.0"
-
-react-sortable-tree@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/react-sortable-tree/-/react-sortable-tree-2.6.0.tgz#206c15ffaf7cb8297c3d50bc057ccb72272c4b43"
-  integrity sha512-XRAm8mK48xylJtLtk/ENPdV0+cAvx+vCDRxWJq9Nhc4vI+dKx4flEGJc1cFmvt5OvXaaX/KWQFB59/4gYkEPXw==
-  dependencies:
-    frontend-collective-react-dnd-scrollzone "^1.0.1"
-    lodash.isequal "^4.5.0"
-    prop-types "^15.6.1"
-    react-dnd "^7.0.1"
-    react-dnd-html5-backend "^7.0.1"
-    react-lifecycles-compat "^3.0.4"
-    react-virtualized "^9.19.1"
 
 react-split-pane@^0.1.84:
   version "0.1.84"
